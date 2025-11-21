@@ -1,7 +1,7 @@
 
   # Voltura Web App Prototype
 
-  This is a code bundle for Voltura Web App Prototype. The original project is available at https://www.figma.com/design/j8rDdpvaprXmstdxUV9Qid/Voltura-Web-App-Prototype.
+  This is a code bundle for Voltura Web App Prototype.
 
   ## Running the code
 
