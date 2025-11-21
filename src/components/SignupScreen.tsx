@@ -5,7 +5,7 @@ import { Label } from './ui/label';
 import { Card } from './ui/card';
 import { Alert, AlertDescription } from './ui/alert';
 import { Eye, EyeOff, AlertCircle, Leaf, Zap, CheckCircle2, TrendingUp, Clock, Loader2 } from 'lucide-react';
-import volturaIcon from 'figma:asset/5e8dd4db2f6b512f177d18615fbae5e3203c67f4.png';
+import volturaIcon from '/voltura-logo.png';
 import { useLanguage } from '../contexts/LanguageContext';
 
 export interface SignupData {

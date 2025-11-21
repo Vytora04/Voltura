@@ -13,7 +13,7 @@ import {
 } from './ui/alert-dialog';
 import { Button } from './ui/button';
 import { useLanguage } from '../contexts/LanguageContext';
-import volturaIcon from 'figma:asset/5e8dd4db2f6b512f177d18615fbae5e3203c67f4.png';
+import volturaIcon from '/voltura-logo.png';
 
 interface MobileNavProps {
   currentScreen: string;
